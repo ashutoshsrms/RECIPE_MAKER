@@ -8,6 +8,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color:black;
 }
 .search-bar{
   width:50%;
@@ -16,7 +17,7 @@
 }
 
 .search-button{
-  background-color: lightcoral;
+  background-color: #14e8f9;
   border:none;
   padding:10px 20px;
   color:white
@@ -25,4 +26,5 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  background-color: aliceblue;
 }
